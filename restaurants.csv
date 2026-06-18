@@ -1,0 +1,301 @@
+restaurant_id,restaurant_name,cuisine,city
+REST0225,Murugan Idli Foods,INDIAN,Chennai
+REST0201,KFC Bites - T Nagar,Cafe,Chennai
+REST0248,Faasos Bites - Tambaram,indian,Chennai
+REST0135,EatFit Cafe - Dadar,Indian,Mumbai
+REST0145,Sangeetha Foods - Andheri,Indain,Mumbai
+REST0100,Annapurna Meals - Bandra,Healthy Food,Mumbai
+REST0288,Domino's Bites - Andheri,Desserts,Mumbai
+REST0226,EatFit,Pizza,Bangalore
+REST0132,Box8 Diner,Cafe,Hyderabad
+REST0192,Wow Momo Hub - OMR,Cafe,Chennai
+REST0159,EatFit,INDIAN,Hyderabad
+REST0139,Kritunga,Healthy Food,Hyderabad
+REST0008,NIC Ice Creams - Indiranagar,Biryani,Bangalore
+REST0024,KFC House - Electronic City,Desserts,Bangalore
+REST0041,Truffles - Madhapur,Desserts,Hyderabad
+REST0156,Sangeetha Cloud Kitchen,Fast Food,Mumbai
+REST0270,A2B Foods,Cafe,Hyderabad
+REST0179,Kritunga Cloud Kitchen - Velachery,Pizza,Chennai
+REST0127,Nandhana Palace Express,INDIAN,Chennai
+REST0045,Domino's Meals - Hitech City,INDIAN,Hyderabad
+REST0182,NIC Ice Creams Cloud Kitchen - Ameerpet,INDIAN,Hyderabad
+REST0267,Nandhana Palace Meals - Whitefield,Biryani,Bangalore
+REST0180,Empire Kitchen - Adyar,INDIAN,Chennai
+REST0276,Kritunga Foods - Indiranagar,Pizza,Bangalore
+REST0194,Third Wave Coffee Bites - Kukatpally,Fast Food,Hyderabad
+REST0115,Murugan Idli Corner - Bandra,Indian,Mumbai
+REST0007,FreshMenu Foods,Fast Food,Bangalore
+REST0236,Sangeetha - Koramangala,Biryani,Bangalore
+REST0043,Sangeetha Foods,INDIAN,Hyderabad
+REST0110,Saravana Bhavan Foods,Healthy Food,Hyderabad
+REST0287,Subway Express,Healthy Food,Mumbai
+REST0231,Paradise Kitchen,Desserts,Mumbai
+REST0122,Domino's Darbar - Gachibowli,indian,Hyderabad
+REST0211,Saravana Bhavan Bites,Chinese,Chennai
+REST0209,FreshMenu,Chinese,Chennai
+REST0103,Wow Momo Corner,Fast Food,Bangalore
+REST0025,Subway,Chinese,Mumbai
+REST0257,NIC Ice Creams Foods - T Nagar,Indian,Chennai
+REST0006,EatFit Diner - Goregaon,Pizza,Mumbai
+REST0255,Meghana - Lower Parel,Indain,Mumbai
+REST0116,Truffles Diner,South Indian,Chennai
+REST0169,NIC Ice Creams - Whitefield,Pizza,Bangalore
+REST0062,Truffles - Goregaon,South Indian,Mumbai
+REST0185,Paradise Meals,Indian,Mumbai
+REST0212,Murugan Idli Diner - Gachibowli,INDIAN,Hyderabad
+REST0019,A2B Diner,Pizza,Mumbai
+REST0273,EatFit,indian,Hyderabad
+REST0228,Barbeque Nation Foods - Goregaon,North Indian,Mumbai
+REST0040,Faasos,Desserts,Bangalore
+REST0075,Truffles Bites - Tambaram,indian,Chennai
+REST0240,Behrouz Cafe,Fast Food,Chennai
+REST0108,Faasos,North Indian,Mumbai
+REST0001,EatFit,INDIAN,Chennai
+REST0284,Murugan Idli Cafe - Thane,South Indian,Mumbai
+REST0190,Barbeque Nation,South Indian,Bangalore
+REST0203,Faasos Foods,Pizza,Bangalore
+REST0263,Burger King Cafe,Pizza,Hyderabad
+REST0106,FreshMenu Darbar,Pizza,Hyderabad
+REST0175,Empire Corner,Fast Food,Mumbai
+REST0207,Truffles Hub - Marathahalli,Indian,Bangalore
+REST0282,A2B Meals,Chinese,Chennai
+REST0151,Meghana Express,indian,Hyderabad
+REST0088,Barbeque Nation Foods,Chinese,Bangalore
+REST0266,Box8,Chinese,Chennai
+REST0193,Burger King,Chinese,Bangalore
+REST0272,Chai Point Kitchen,Fast Food,Hyderabad
+REST0126,Pizza Hut Hub - Whitefield,Healthy Food,Bangalore
+REST0075,Truffles Bites - Tambaram,indian,Chennai
+REST0063,Truffles Foods,Healthy Food,Bangalore
+REST0057,Chai Point Kitchen - Powai,Pizza,Mumbai
+REST0253,Truffles Cafe - Madhapur,Pizza,Hyderabad
+REST0198,Murugan Idli Meals - Thane,North Indian,Mumbai
+REST0089,Truffles Kitchen,Cafe,Hyderabad
+REST0181,Saravana Bhavan Darbar - Electronic City,INDIAN,Bangalore
+REST0205,Chai Point,Cafe,Chennai
+REST0047,Annapurna Cafe - Marathahalli,INDIAN,Bangalore
+REST0022,FreshMenu - Bandra,Chinese,Mumbai
+REST0180,Empire Kitchen - Adyar,INDIAN,Chennai
+REST0259,Murugan Idli - Andheri,Fast Food,Mumbai
+REST0147,Domino's Corner - Ameerpet,Indian,Hyderabad
+REST0054,Wow Momo Kitchen - Velachery,North Indian,Chennai
+REST0081,Subway,North Indian,Bangalore
+REST0072,Domino's Cloud Kitchen,Biryani,Hyderabad
+REST0038,Box8 Corner,Healthy Food,Bangalore
+REST0013,Burger King Hub,Pizza,Chennai
+REST0220,Subway Foods,South Indian,Bangalore
+REST0120,Wow Momo Cafe,INDIAN,Mumbai
+REST0005,Murugan Idli Bites - Goregaon,North Indian,Mumbai
+REST0268,A2B Darbar,Pizza,Hyderabad
+REST0091,KFC,Chinese,Mumbai
+REST0274,Domino's Diner - Koramangala,Biryani,Bangalore
+REST0066,Paradise Express - Lower Parel,Pizza,Mumbai
+REST0237,Meghana Meals,Fast Food,Mumbai
+REST0002,Wow Momo Cloud Kitchen,Cafe,Hyderabad
+REST0171,Kritunga Foods - Banjara Hills,South Indian,Hyderabad
+REST0101,Truffles Diner - Bandra,Indain,Mumbai
+REST0092,Paradise,Desserts,Bangalore
+REST0214,Pizza Hut Corner - Jayanagar,North Indian,Bangalore
+REST0243,Burger King,Pizza,Mumbai
+REST0210,Domino's Kitchen - Goregaon,Healthy Food,Mumbai
+REST0129,Annapurna Meals - Thane,INDIAN,Mumbai
+REST0262,Annapurna,Fast Food,Mumbai
+REST0027,Sangeetha Darbar,Pizza,Hyderabad
+REST0051,Third Wave Coffee Diner,Indian,Mumbai
+REST0249,Wow Momo Corner,Cafe,Mumbai
+REST0141,Nandhana Palace - Ameerpet,indian,Hyderabad
+REST0271,Nandhana Palace Diner,Biryani,Hyderabad
+REST0186,Barbeque Nation Bites,Pizza,Mumbai
+REST0199,Truffles,Indian,Mumbai
+REST0157,Subway Kitchen - Kukatpally,Cafe,Hyderabad
+REST0241,Third Wave Coffee Bites,Cafe,Mumbai
+REST0200,FreshMenu Kitchen,South Indian,Bangalore
+REST0184,Saravana Bhavan Foods,INDIAN,Mumbai
+REST0187,A2B House - Banjara Hills,indian,Hyderabad
+REST0176,Faasos Meals,Indian,Bangalore
+REST0082,Chai Point Diner,Healthy Food,Hyderabad
+REST0229,Nandhana Palace Corner - Ameerpet,Biryani,Hyderabad
+REST0178,Biryani Blues Corner - Thane,INDIAN,Mumbai
+REST0077,Nandhana Palace Foods - Adyar,Chinese,Chennai
+REST0053,Annapurna Meals - Jayanagar,Indian,Bangalore
+REST0278,A2B Diner,North Indian,Chennai
+REST0055,Barbeque Nation Meals,Biryani,Bangalore
+REST0035,Saravana Bhavan House - Ameerpet,Biryani,Hyderabad
+REST0095,Saravana Bhavan Cafe,Indain,Chennai
+REST0279,LunchBox Diner,Indain,Hyderabad
+REST0111,Chai Point House - Anna Nagar,Pizza,Chennai
+REST0219,Sangeetha,Indian,Hyderabad
+REST0100,Annapurna Meals - Bandra,Healthy Food,Mumbai
+REST0150,Faasos Meals - Gachibowli,Desserts,Hyderabad
+REST0221,FreshMenu Diner - Kukatpally,South Indian,Hyderabad
+REST0134,Behrouz Express,Fast Food,Hyderabad
+REST0235,Behrouz Foods - Powai,Indain,Mumbai
+REST0040,Faasos,Desserts,Bangalore
+REST0155,Pizza Hut Foods - Porur,INDIAN,Chennai
+REST0016,Domino's,Healthy Food,Chennai
+REST0234,Pizza Hut Kitchen,Pizza,Hyderabad
+REST0254,Burger King Express,Cafe,Mumbai
+REST0290,Annapurna - Thane,Indain,Mumbai
+REST0173,Domino's,Pizza,Hyderabad
+REST0188,KFC,Cafe,Bangalore
+REST0170,Subway Cafe - Indiranagar,Biryani,Bangalore
+REST0144,EatFit Kitchen,Indain,Mumbai
+REST0032,Burger King Darbar - Hitech City,Desserts,Hyderabad
+REST0199,Truffles,Indian,Mumbai
+REST0085,Murugan Idli Hub - Indiranagar,Pizza,Bangalore
+REST0158,FreshMenu Cafe,Healthy Food,Hyderabad
+REST0087,LunchBox Darbar - Whitefield,Pizza,Bangalore
+REST0174,Third Wave Coffee,North Indian,Bangalore
+REST0105,NIC Ice Creams Darbar,Fast Food,Hyderabad
+REST0010,EatFit Darbar,Chinese,Mumbai
+REST0204,Saravana Bhavan Darbar - Anna Nagar,Cafe,Chennai
+REST0148,Faasos Express - Koramangala,Indian,Bangalore
+REST0191,Third Wave Coffee House,South Indian,Hyderabad
+REST0224,KFC Cafe,Pizza,Chennai
+REST0121,Burger King,INDIAN,Chennai
+REST0031,LunchBox Darbar,Chinese,Hyderabad
+REST0037,KFC - Dadar,indian,Mumbai
+REST0197,A2B,Biryani,Mumbai
+REST0012,Wow Momo House,Indain,Chennai
+REST0289,Barbeque Nation Meals - Indiranagar,Pizza,Bangalore
+REST0091,KFC,Chinese,Mumbai
+REST0286,Paradise,Indian,Bangalore
+REST0119,Barbeque Nation Meals,South Indian,Mumbai
+REST0130,Behrouz Bites - Andheri,Indian,Mumbai
+REST0058,Nandhana Palace - Dadar,Desserts,Mumbai
+REST0083,Third Wave Coffee - Marathahalli,indian,Bangalore
+REST0142,Burger King,Pizza,Chennai
+REST0242,Meghana Bites,Healthy Food,Bangalore
+REST0281,EatFit Diner,Biryani,Chennai
+REST0046,Behrouz Express - Whitefield,Healthy Food,Bangalore
+REST0042,Wow Momo,Fast Food,Hyderabad
+REST0152,NIC Ice Creams,North Indian,Hyderabad
+REST0280,Third Wave Coffee,Biryani,Mumbai
+REST0167,Chai Point Darbar - Koramangala,North Indian,Bangalore
+REST0154,Barbeque Nation - Goregaon,North Indian,Mumbai
+REST0218,KFC Meals,Desserts,Hyderabad
+REST0107,Biryani Blues - Ameerpet,Cafe,Hyderabad
+REST0094,Domino's Corner,Pizza,Bangalore
+REST0277,Sangeetha Express,Pizza,Mumbai
+REST0124,Box8 - Whitefield,indian,Bangalore
+REST0238,KFC Diner - Powai,Healthy Food,Mumbai
+REST0168,Wow Momo Corner,Biryani,Mumbai
+REST0060,Domino's Diner - Whitefield,Desserts,Bangalore
+REST0049,Murugan Idli Cloud Kitchen,Desserts,Chennai
+REST0137,Subway Meals,Pizza,Mumbai
+REST0247,Nandhana Palace - Ameerpet,Pizza,Hyderabad
+REST0275,Empire,Indian,Hyderabad
+REST0245,Paradise House - Porur,North Indian,Chennai
+REST0118,Empire Hub - Gachibowli,indian,Hyderabad
+REST0061,Empire Cafe,indian,Chennai
+REST0071,Sangeetha Meals - Kukatpally,Biryani,Hyderabad
+REST0230,Domino's,Biryani,Chennai
+REST0123,Subway Kitchen,Chinese,Bangalore
+REST0021,Nandhana Palace - Porur,Indain,Chennai
+REST0011,Empire,Cafe,Chennai
+REST0064,Pizza Hut Cafe - Lower Parel,Biryani,Mumbai
+REST0069,A2B Diner - Ameerpet,Pizza,Hyderabad
+REST0232,A2B,North Indian,Mumbai
+REST0239,Meghana,indian,Bangalore
+REST0172,Wow Momo Corner - Tambaram,Biryani,Chennai
+REST0017,Biryani Blues Hub,Healthy Food,Mumbai
+REST0073,Behrouz - Jayanagar,North Indian,Bangalore
+REST0128,A2B Foods,Chinese,Mumbai
+REST0233,A2B Cafe,South Indian,Chennai
+REST0033,Domino's Kitchen,Healthy Food,Hyderabad
+REST0125,FreshMenu Foods,Cafe,Hyderabad
+REST0183,Saravana Bhavan Express,Pizza,Bangalore
+REST0001,EatFit,INDIAN,Chennai
+REST0099,Box8,Indian,Mumbai
+REST0265,Barbeque Nation Corner,indian,Chennai
+REST0093,Annapurna,Pizza,Bangalore
+REST0039,NIC Ice Creams Kitchen,Chinese,Bangalore
+REST0133,Empire Meals,Chinese,Hyderabad
+REST0096,Sangeetha Darbar,Desserts,Hyderabad
+REST0261,Burger King House,Healthy Food,Chennai
+REST0098,Pizza Hut - Banjara Hills,North Indian,Hyderabad
+REST0036,Meghana House - Lower Parel,South Indian,Mumbai
+REST0009,LunchBox Express,Healthy Food,Chennai
+REST0084,LunchBox - Goregaon,South Indian,Mumbai
+REST0164,FreshMenu,South Indian,Bangalore
+REST0086,Murugan Idli,INDIAN,Bangalore
+REST0114,Truffles - Ameerpet,Desserts,Hyderabad
+REST0215,Sangeetha Express,INDIAN,Bangalore
+REST0014,Kritunga - Jayanagar,Healthy Food,Bangalore
+REST0163,Kritunga,Chinese,Chennai
+REST0146,Wow Momo Hub,INDIAN,Chennai
+REST0222,Pizza Hut - Anna Nagar,North Indian,Chennai
+REST0034,Burger King - Banjara Hills,Desserts,Hyderabad
+REST0022,FreshMenu - Bandra,Chinese,Mumbai
+REST0196,Murugan Idli Darbar,Fast Food,Chennai
+REST0177,Biryani Blues Cloud Kitchen - Velachery,indian,Chennai
+REST0216,Faasos House - Banjara Hills,Indain,Hyderabad
+REST0109,Wow Momo - Thane,Fast Food,Mumbai
+REST0104,Murugan Idli - Marathahalli,INDIAN,Bangalore
+REST0269,LunchBox Bites,INDIAN,Hyderabad
+REST0166,KFC - Electronic City,Cafe,Bangalore
+REST0056,Pizza Hut House - Banjara Hills,Indian,Hyderabad
+REST0070,Paradise,Indain,Bangalore
+REST0090,Nandhana Palace Bites - Madhapur,Fast Food,Hyderabad
+REST0003,KFC Cafe - Lower Parel,INDIAN,Mumbai
+REST0020,Behrouz,Chinese,Bangalore
+REST0068,LunchBox Kitchen,Biryani,Hyderabad
+REST0189,KFC Foods - Kukatpally,Healthy Food,Hyderabad
+REST0285,Murugan Idli - Lower Parel,Indain,Mumbai
+REST0052,Murugan Idli Express - Electronic City,Biryani,Bangalore
+REST0244,Murugan Idli Express,South Indian,Mumbai
+REST0161,Wow Momo House - Adyar,Desserts,Chennai
+REST0223,Saravana Bhavan,Indian,Bangalore
+REST0079,Meghana - Indiranagar,Chinese,Bangalore
+REST0256,Meghana Kitchen - Indiranagar,Indain,Bangalore
+REST0044,Barbeque Nation Foods - Indiranagar,North Indian,Bangalore
+REST0143,Faasos - Adyar,Cafe,Chennai
+REST0065,Annapurna,Pizza,Hyderabad
+REST0208,Saravana Bhavan Corner - Powai,Biryani,Mumbai
+REST0067,Burger King,Indian,Bangalore
+REST0162,LunchBox Cafe,Chinese,Chennai
+REST0213,Kritunga Darbar,Indian,Hyderabad
+REST0165,A2B Kitchen - Koramangala,Cafe,Bangalore
+REST0195,Biryani Blues Meals,Cafe,Hyderabad
+REST0015,Kritunga Bites,Indian,Mumbai
+REST0252,KFC Cloud Kitchen - Adyar,Indain,Chennai
+REST0140,Annapurna Kitchen - Dadar,Healthy Food,Mumbai
+REST0076,A2B,Cafe,Hyderabad
+REST0080,KFC - Whitefield,Biryani,Bangalore
+REST0023,Chai Point Express,Healthy Food,Chennai
+REST0059,Behrouz Foods,Pizza,Chennai
+REST0102,Barbeque Nation,Desserts,Chennai
+REST0074,Annapurna,Cafe,Hyderabad
+REST0260,Meghana - Madhapur,Chinese,Hyderabad
+REST0160,Wow Momo House,South Indian,Hyderabad
+REST0217,A2B Cloud Kitchen,North Indian,Bangalore
+REST0227,Truffles,Chinese,Hyderabad
+REST0050,Truffles,South Indian,Chennai
+REST0153,Faasos Kitchen,INDIAN,Hyderabad
+REST0138,A2B Cafe,Pizza,Hyderabad
+REST0004,Third Wave Coffee Kitchen,Desserts,Chennai
+REST0246,Nandhana Palace Bites - Koramangala,South Indian,Bangalore
+REST0056,Pizza Hut House - Banjara Hills,Indian,Hyderabad
+REST0149,Faasos Foods,indian,Mumbai
+REST0048,Faasos Meals - Porur,Chinese,Chennai
+REST0013,Burger King Hub,Pizza,Chennai
+REST0202,Biryani Blues Express - Indiranagar,Indian,Bangalore
+REST0251,Saravana Bhavan Hub - Electronic City,Indian,Bangalore
+REST0018,Barbeque Nation Kitchen,North Indian,Mumbai
+REST0113,Domino's Corner,South Indian,Hyderabad
+REST0026,Burger King Express,indian,Hyderabad
+REST0112,FreshMenu Diner - Koramangala,indian,Bangalore
+REST0136,Saravana Bhavan Corner - Lower Parel,Healthy Food,Mumbai
+REST0097,Annapurna Darbar - Madhapur,Pizza,Hyderabad
+REST0264,Biryani Blues Kitchen,Chinese,Chennai
+REST0250,Paradise,Indian,Chennai
+REST0028,Annapurna - Banjara Hills,INDIAN,Hyderabad
+REST0206,Saravana Bhavan Corner,Healthy Food,Mumbai
+REST0131,Wow Momo Diner,North Indian,Chennai
+REST0029,Truffles Kitchen - Tambaram,Chinese,Chennai
+REST0117,Behrouz Express,Biryani,Bangalore
+REST0030,Sangeetha Express,Chinese,Bangalore
+REST0078,Faasos Meals,Chinese,Mumbai
+REST0283,Behrouz Corner,Healthy Food,Chennai
+REST0258,Kritunga Hub,Biryani,Bangalore
